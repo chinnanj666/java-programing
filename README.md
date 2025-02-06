@@ -30,7 +30,7 @@ The project is structured as follows:
    java -cp target/my-maven-project-1.0-SNAPSHOT.jar com.example.App
 
 
----
+---    
 
 ###  **Summary**
 
